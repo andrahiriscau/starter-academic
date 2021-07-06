@@ -5,8 +5,8 @@ title: "The Effect of Paid Maternity Leave on Fertility and Mother's Labor Force
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
 - Andra Hiriscau
+#- admin
 
 # Author notes (optional)
 #author_notes:
@@ -26,14 +26,14 @@ authors:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+#publication: In *Wowchemy Conference*
+publication_short: JMP
 
 abstract: This study examines how paid maternity leave (ML) impacted fertility and mothers' labor force participation in Romania. Specifically, I investigate the effects of a law regarding paid ML, which was implemented in 1990- less than one month- after the fall of the Communist regime in the country. The ML gives mothers the right to paid leave until the child turns one year old, and it offers 65% of monthly income before birth. This policy change was unexpected, creating conditions for a quasi-natural experiment. To establish causality, I examine the effects of this policy change using a regression discontinuity design and census data. I show that mothers who are eligible for ML are 3 percentage-points more likely to have an additional child than those ineligibles. The effect is persistent for seven years after the policy was implemented. I find no significant results regarding the mother’s labor force participation. I argue that the policy alleviated, to some extent, declining fertility rates, which were primarily caused by lifting bans on birth controls after the fall of the communist regime. These results have important implications regarding the shrinking working-age population and the ability to fund benefits programs.
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
