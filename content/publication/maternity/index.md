@@ -33,7 +33,7 @@ abstract: This study examines how paid maternity leave (ML) impacted fertility a
 
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study examines how paid maternity leave (ML) impacted fertility and mothers' labor force participation in Romania.
 
 tags: []
 
